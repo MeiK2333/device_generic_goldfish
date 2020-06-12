@@ -1,3 +1,4 @@
+#pragma GCC diagnostic ignored "-Wunused-function"
 /*
  * Copyright (C) 2011 The Android Open Source Project
  *
